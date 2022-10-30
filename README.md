@@ -1,5 +1,9 @@
 # Support-Vector-Regressor
 
+This implementation is done to show the basic implementation of support vector regressor.
+
+In this problem statement we need to find out the chance of admission of a student to a university by giving different input variables.
+
 Dataset information :
 
 Dataset This dataset is created for prediction of graduate admissions:
